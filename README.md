@@ -2,6 +2,18 @@
 
 > Interactive Gifts and Ads
 
+# Technical Description
+
+> This site does use a vue router and components, but as of yet there is not much complicated javascript
+In the future I will include a contact us form as well as an HTML canvas that can hopefully be use to
+draw, save and download images, but these projects are still ongoing.
+
+# General Description
+
+> This site is mostly intended to provide information readily for people who are interested in our
+custom video game company. PixoPixa will create a simple platformer video game starring you or a
+loved one and customize many areas of game play based on your preferences.
+
 ## Build Setup
 
 ``` bash
